@@ -391,7 +391,7 @@ This section covers more complex concepts like microservices, GraphQL, serverles
 
 ## 🤝 Contribute
 
-We welcome contributions to help improve these resources! If you have more fullstack development resources, tutorials, or suggestions, please follow our [contribution guidelines]((https://github.com/SCA-OAU/LearnLink/blob/master/CONTRIBUTING.md)) to make your additions.
+We welcome contributions to help improve these resources! If you have more fullstack development resources, tutorials, or suggestions, please [follow our contribution guidelines](https://github.com/SCA-OAU/LearnLink/blob/master/CONTRIBUTING.md) to make your additions.
 
 ---
 
